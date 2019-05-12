@@ -13,3 +13,6 @@ DFA---Brzozowski’s Algorithm--->minimal DFA
 
 then we have the DFA to match string.
 
+
+
+https://blog.csdn.net/qq_36513490/article/details/89474321
